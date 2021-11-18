@@ -18,7 +18,7 @@ your current location and also your selected city using ***Volley*** Library.
 
 
 ## Screenshots
-![india](https://user-images.githubusercontent.com/72797331/142378643-2ae0387a-ea80-4916-9483-adfdcc26df88.png)
+![wetherappa](https://user-images.githubusercontent.com/72797331/142452990-de24ae7b-fc76-4d26-9f53-ffc40b1fe8cc.jpg)
 
 
 ## Demo Video
