@@ -23,8 +23,7 @@ your current location and also your selected city using ***Volley*** Library.
 
 
 ## Demo Video
-
-Insert gif or link to demo
+https://user-images.githubusercontent.com/72797331/142455155-b08ed7c0-4d6d-49d0-9fae-fdc57cff57a0.mp4
 
 
 ## Libraries & Dependencies
