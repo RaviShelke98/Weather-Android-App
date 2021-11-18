@@ -18,8 +18,7 @@ your current location and also your selected city using ***Volley*** Library.
 
 
 ## Screenshots
-
-![App Screenshot](file:///C:/Users/HP/Downloads/india.png)
+![india](https://user-images.githubusercontent.com/72797331/142378643-2ae0387a-ea80-4916-9483-adfdcc26df88.png)
 
 
 ## Demo Video
