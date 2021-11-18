@@ -19,6 +19,7 @@ your current location and also your selected city using ***Volley*** Library.
 
 ## Screenshots
 ![wetherappa](https://user-images.githubusercontent.com/72797331/142452990-de24ae7b-fc76-4d26-9f53-ffc40b1fe8cc.jpg)
+![wetherappb](https://user-images.githubusercontent.com/72797331/142454483-6328abf0-79dd-499c-874e-c14eab84ed11.jpg)
 
 
 ## Demo Video
